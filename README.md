@@ -5,7 +5,7 @@
 - 💬 Ask me anything about JavaScript 
 - 📫 How to reach me: sirish.webdev@gmail.com
 - 😄 My website: https://sirishkoirala.com.np
-- ⚡ Fun fact: u here 4 something & i got it.
+- ⚡ Turning coffee into code since 2019.
   
 ### Connect with me:
 <div id="badges">
