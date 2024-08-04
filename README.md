@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/Sirishkoirala">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/k_s.i.r.i.s.h">
+   <a href="https://www.instagram.com/sirishxkoirala">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/sirish69/">
+   <a href="https://www.facebook.com/sirishxkoirala/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://sirishkoirala.com.np/">
