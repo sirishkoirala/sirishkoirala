@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,github,git,php,figma,c,cpp&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,github,git,php,figma,c,cpp,tailwind,nodejs,postgres,mongodb&perline=7)](https://skillicons.dev)
 
 ![Sirish Koirala's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirishkoirala&show_icons=true&theme=dark)
 
