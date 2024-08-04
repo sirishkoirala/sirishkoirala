@@ -9,17 +9,17 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Sirishkoirala">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://www.linkedin.com/in/Sirishkoirala">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://www.instagram.com/k_s.i.r.i.s.h">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/sirish69/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/elonmusk">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://sirishkoirala.com.np/">
+    <img src="https://img.shields.io/badge/SirishKoirala-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
