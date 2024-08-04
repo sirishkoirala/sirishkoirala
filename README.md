@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Sirish Koirala</h1>
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently exploring Node.js
 - 💬 Ask me anything about JavaScript 
 - 📫 How to reach me: sirish.webdev@gmail.com
 - 😄 My website: https://sirishkoirala.com.np
