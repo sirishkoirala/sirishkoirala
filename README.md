@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Sirish Koirala</h1>
+<h1 align="center">👾✨ Hey there, I'm Sirish Koirala! ✨👾</h1>
 
-- 🔭 I’m currently working with **React, Next.js, and NestJS**  
-- 🌱 I’m exploring **Node.js and backend technologies**  
-- 💬 Ask me anything about **JavaScript, React, and full-stack development**  
-- 📫 How to reach me: **sirish.webdev@gmail.com**  
-- 🌐 My website: **[sirishkoirala.com.np](https://sirishkoirala.com.np)**  
-- ⚡ **Software guy.**  
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" alt="Coding GIF">
+
+🚀 **Full-Stack Web Dev | JavaScript Enthusiast | Problem Solver**  
+
+🎯 Currently **building awesome stuff with React, Next.js & NestJS**  
+🌱 **Exploring the deep dark secrets of Node.js & Backend magic**  
+💡 Ask me **anything about JavaScript, React, and full-stack dev!**  
+📩 **Hit me up at:** **sirish.webdev@gmail.com**  
+🌐 **Portfolio:** [sirishkoirala.com.np](https://sirishkoirala.com.np)  
 
 ---
 
-### 🌍 Connect with me:
-<div id="badges">
+## 🌍 Connect with me & let's vibe! 🎸  
+<div align="center">
   <a href="https://www.linkedin.com/in/Sirishkoirala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.instagram.com/sirishxkoirala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/sirishxkoirala" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/sirishxkoirala/" target="_blank">
+  <a href="https://www.facebook.com/sirishxkoirala/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://sirishkoirala.com.np/" target="_blank">
+  <a href="https://sirishkoirala.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
 ---
 
-### 🛠 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,next,typescript,github,git,php,figma,c,cpp,tailwind,nodejs,nest,postgres,sequelize,mongodb&perline=9)](https://skillicons.dev)
+## ⚡ Tech Stack & Superpowers 🦸‍♂️
+🖥️ **Frontend:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,figma&perline=7)](https://skillicons.dev)
+
+⚙️ **Backend & Database:**  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nest,postgres,mongodb,sequelize,prisma,php&perline=7)](https://skillicons.dev)
+
+🛠 **Dev Tools & Other:**  
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,bitbucket,cpp,c,discord&perline=7)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Stats:
-![Sirish Koirala's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirishkoirala&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirishkoirala&theme=dark)
+## 📊 GitHub Stats 🚀  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirishkoirala&show_icons=true&theme=radical&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirishkoirala&theme=radical" height="165">
+</p>
 
+---
+
+## 🏆 Fun Stuff  
+🎮 **Gaming Enthusiast** 🎧 **Music Lover** 🤯 **Code & Chill**  
+🥑 **Team JavaScript** 🏋️‍♂️ **Lifting Code & Weights** 🚀 **Always Learning**  
+
+> "Code like a rockstar, debug like a detective. 🕵️‍♂️"  
+
+---
+
+🔥 **If you made it this far, drop a ⭐ on my repos and let's build something epic!** 😎  
