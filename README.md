@@ -51,8 +51,11 @@
 ---
 
 ## 🏆 Fun Stuff  
-🎮 **Gaming Enthusiast** 🎧 **Music Lover** 🤯 **Code & Chill**  
-🥑 **Team JavaScript** 🏋️‍♂️ **Lifting Code & Weights** 🚀 **Always Learning**  
+💹 **Funded Trader** 💱 **Forex Enthusiast** 💵 **Nepse & Chill**         
+🎮 **Gaming Enthusiast** 🎧 **Music Lover** 🤯 **Code & Bugs**                    
+🥑 **Team JavaScript** 🏋️‍♂️ **Lifting Code & Weights** 🚀 **Always Learning**                 
+ 
+
 
 > "Code like a rockstar, debug like a detective. 🕵️‍♂️"  
 
