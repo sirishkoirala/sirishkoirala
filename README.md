@@ -9,7 +9,7 @@
 💡 Ask me **anything about JavaScript, React, and full-stack dev!**  
 📩 **Hit me up at:** **sirish.webdev@gmail.com**  
 🌐 **Portfolio:** [sirishkoirala.com.np](https://sirishkoirala.com.np)  
-👀 **![Profile Views](https://komarev.com/ghpvc/?username=sirishkoirala&color=brightgreen)
+👀 **![Profile Views](https://komarev.com/ghpvc/?username=sirishkoirala&color=brightgreen)**
 
 ---
 
