@@ -52,7 +52,7 @@
 ---
 
 ## 🏆 Fun Stuff  
-💹 **Funded Trader** 💱 **Forex Enthusiast** 💵 **Nepse & Chill**         
+💹 **Love Trading**         
 🎮 **Gaming Enthusiast** 🎧 **Music Lover** 🤯 **Code & Bugs**                    
 🥑 **Team JavaScript** 🏋️‍♂️ **Lifting Code & Weights** 🚀 **Always Learning**                 
  
